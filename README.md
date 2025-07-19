@@ -9,6 +9,6 @@ end)
 if success then
     loadstring(response)()
 else
-    warn("[TFNHX V4] Falha ao carregar o script. Verifique sua conexão ou o link do loader.")
+
 end
 ```
